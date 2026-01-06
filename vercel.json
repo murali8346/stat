@@ -16,6 +16,11 @@
       "permanent": false
     },
     {
+      "source": "/lab",
+      "destination": "https://drive.google.com/file/d/1DFg2brqJKfvNhOttJUFOMkeMtHpccoGy/view?usp=sharing",
+      "permanent": false
+    },
+    {
       "source": "/exp4a",
       "destination": "https://colab.research.google.com/drive/1xfahtfNrobCxof7te7MdBkA8l8nU67YW?usp=sharing",
       "permanent": false
@@ -32,3 +37,4 @@
     }
   ]
 }
+
