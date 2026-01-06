@@ -1,0 +1,34 @@
+{
+  "redirects": [
+    {
+      "source": "/exp1",
+      "destination": "https://colab.research.google.com/drive/1ZXIJYCda3aeKrHE1QQ-43mSBT5NMnPSA?usp=sharing",
+      "permanent": false
+    },
+    {
+      "source": "/exp2",
+      "destination": "https://colab.research.google.com/drive/1_kQW6CNNfzi6Gztk_DTPP1JWS4sy_3H5?usp=sharing",
+      "permanent": false
+    },
+    {
+      "source": "/exp3",
+      "destination": "https://colab.research.google.com/drive/1y831qDB7Bhhxn0zFh7njJWXXfDOAbGEt?usp=sharing",
+      "permanent": false
+    },
+    {
+      "source": "/exp4a",
+      "destination": "https://colab.research.google.com/drive/1xfahtfNrobCxof7te7MdBkA8l8nU67YW?usp=sharing",
+      "permanent": false
+    },
+    {
+      "source": "/exp4b",
+      "destination": "https://colab.research.google.com/drive/1b3UUbCyMFQGzPosUd38WxhOyHzOIZKVr?usp=sharing",
+      "permanent": false
+    },
+    {
+      "source": "/exp5",
+      "destination": "https://colab.research.google.com/drive/1Gtfpvb_o6riH3qEYT2YV-Syhlx3I4yet?usp=sharing",
+      "permanent": false
+    }
+  ]
+}
