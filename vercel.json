@@ -1,13 +1,13 @@
 {
   "redirects": [
     {
-      "source": "/exp1",
-      "destination": "https://colab.research.google.com/drive/1ZXIJYCda3aeKrHE1QQ-43mSBT5NMnPSA?usp=sharing",
+      "source": "/pma",
+      "destination": "https://colab.research.google.com/drive/19Eo6_h61IPvniGlGqYakyFxXwluTBq3h?usp=sharing",
       "permanent": false
     },
     {
-      "source": "/exp2",
-      "destination": "https://colab.research.google.com/drive/1_kQW6CNNfzi6Gztk_DTPP1JWS4sy_3H5?usp=sharing",
+      "source": "/pma1",
+      "destination": "https://colab.research.google.com/drive/1uwON-nGL-OXPILG5zAJl9zVFdLwa3nPO?usp=sharing",
       "permanent": false
     },
     {
@@ -37,4 +37,5 @@
     }
   ]
 }
+
 
