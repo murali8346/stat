@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/pma1",
-      "destination": "https://colab.research.google.com/drive/19Eo6_h61IPvniGlGqYakyFxXwluTBq3h?usp=sharing",
+      "source": "/uiux",
+      "destination": "https://docs.google.com/document/d/19OFiVeGt_kVkRib_N5ORXFtOJIWjVdOT_hOsrGtJiBg/edit?usp=sharing",
       "permanent": false
     },
     {
@@ -37,6 +37,7 @@
     }
   ]
 }
+
 
 
 
